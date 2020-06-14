@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset=”utf-8”>
+	<title> 240SX </title>
+</head>
+<body>
+	<h1> 240SX </h1>
+	<img src="images/1.jpg" alt="drawing of an car" height="320" width="540" alt="drawing of an car">
+	<p> This is an example file. </p>
+	<a href="https://www.buas.nl/" target="_blank"> This is a working link to BUAS website.</a>
+</body>
+</html>
